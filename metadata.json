@@ -1,0 +1,8 @@
+
+{
+  "name": "Culinary AI Fridge Assistant",
+  "description": "A sleek, AI-powered kitchen companion that identifies ingredients from your fridge and suggests personalized recipes with step-by-step voice guidance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
